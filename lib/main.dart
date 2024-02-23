@@ -11,10 +11,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Hello World'),
+          title: Text('Hashbi Alhadi'),
         ),
         body: Center(
-          child: Text('Hello World'),
+          child: Text('Hello Alhadi'),
         ),
       ),
     );
